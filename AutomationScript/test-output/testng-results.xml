@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-27T16:01:56 IST" name="Suite" finished-at="2022-12-27T16:01:59 IST" duration-ms="2604">
+    <groups>
+    </groups>
+    <test started-at="2022-12-27T16:01:56 IST" name="Test" finished-at="2022-12-27T16:01:59 IST" duration-ms="2604">
+      <class name="Org.Test.TestCases.TC1_PostRequest">
+        <test-method signature="testCase1()[pri:0, instance:Org.Test.TestCases.TC1_PostRequest@3c7f66c4]" started-at="2022-12-27T16:01:57 IST" name="testCase1" finished-at="2022-12-27T16:01:59 IST" duration-ms="2256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- Org.Test.TestCases.TC1_PostRequest -->
+      <class name="Org.Test.TestCases.TC4_PutRequest">
+        <test-method signature="testcase4()[pri:0, instance:Org.Test.TestCases.TC4_PutRequest@1e1a0406]" started-at="2022-12-27T16:01:59 IST" name="testcase4" finished-at="2022-12-27T16:01:59 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+      </class> <!-- Org.Test.TestCases.TC4_PutRequest -->
+      <class name="Org.Test.TestCases.TC5_DeleteRequest">
+        <test-method signature="testcase5()[pri:0, instance:Org.Test.TestCases.TC5_DeleteRequest@3cebbb30]" started-at="2022-12-27T16:01:59 IST" name="testcase5" finished-at="2022-12-27T16:01:59 IST" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase5 -->
+      </class> <!-- Org.Test.TestCases.TC5_DeleteRequest -->
+      <class name="Org.Test.TestCases.TC3_GetParticularRecord">
+        <test-method signature="testCase3()[pri:0, instance:Org.Test.TestCases.TC3_GetParticularRecord@23c30a20]" started-at="2022-12-27T16:01:59 IST" name="testCase3" finished-at="2022-12-27T16:01:59 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+      </class> <!-- Org.Test.TestCases.TC3_GetParticularRecord -->
+      <class name="Org.Test.TestCases.TC2_GetAllRequest">
+        <test-method signature="testCase2()[pri:0, instance:Org.Test.TestCases.TC2_GetAllRequest@437da279]" started-at="2022-12-27T16:01:59 IST" name="testCase2" finished-at="2022-12-27T16:01:59 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- Org.Test.TestCases.TC2_GetAllRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
